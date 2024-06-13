@@ -1,3 +1,4 @@
 # stackblitz-projekKrypto
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/xmatuskaa/stackblitz-projekKrypto)
+pro spusteni: npm run start
+generator SHA0 hesel: https://toolkit.vercel.app/sha-0/
