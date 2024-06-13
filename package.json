@@ -3,6 +3,6 @@
     "sha.js": "^2.4.11"
   },
   "scripts": {
-    "start": "node KryptopProjekt.js"
+    "start": "node KryptoProjekt.js"
   }
 }
